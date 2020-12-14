@@ -1,2 +1,5 @@
-# Projetos-rápidos
-Neste repositório colocarei projetos rápidos que liderei ou realizei sozinho, como forma de demonstração de conhecimento sobre as áreas correspondentes.
+# Projeto de Site Sobre Ecopontos
+
+  Esse repositório tem por objetivo demonstrar um projeto rápido que liderei, que tem por finalidade 
+conscientizar as pessoas dos efeitos catastróficos causados pelo descarte incorreto de lixo, e informar
+sobre o papel dos Ecopontos nessa missão ecológica.
